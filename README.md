@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kunal Khandelwal
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on WebApp related projects
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on Web & App related projects
 - 📫 How to reach me LinkedIn:- www.linkedin.com/in/kunal-khandelwal-19a52127b
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Ex - Otaku
